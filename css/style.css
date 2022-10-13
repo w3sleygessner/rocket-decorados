@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+
+.text-orange {
+  color: #ff9900;
+}
+
+p,
+a {
+  font-size: 14px;
+  line-height: 28px;
+  color: #7d7987;
+}
+
+.hero {
+  width: 592px;
+  margin: 0 auto 44px;
+}
+
+.hero img {
+  max-width: 100%;
+  width: 300px;
+}
+
+.hero h1 {
+  font-family: "Inter", sans-serif;
+  font-size: 49px;
+  line-height: 56px;
+  font-weight: normal;
+  margin-top: 12px;
+}
+
+.hero .text-orange {
+  font-weight: bold;
+}
+
+.message {
+  margin-bottom: 44px;
+}
+
+footer .line {
+  width: 592px;
+  height: 0px;
+  border: 1px solid #ccc;
+  margin: 0 auto 12px;
+}
+
+footer a + a {
+  margin-left: 28px;
+}
+
+#balls {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
