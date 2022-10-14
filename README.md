@@ -2,4 +2,4 @@
 # Projeto desenvolvido no curso Explorer da Rocketseat.
 
 Demo:
-[Imgur](https://i.imgur.com/xPhuagp.png)
+<img src="https://i.imgur.com/xPhuagp.png" alt="Demonstração do site desenvolvido" />
