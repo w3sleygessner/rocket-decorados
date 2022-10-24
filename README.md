@@ -1,4 +1,8 @@
-> explorer_projeto-01
-# Projeto desenvolvido no curso Explorer da Rocketseat.
+Projeto desenvolvido no curso explorer da rocketseat.
 
-<img src="https://i.imgur.com/xPhuagp.png" alt="Demonstração do site desenvolvido"  width="600px"/>
+<img src="https://i.imgur.com/xPhuagp.png" alt="Demonstração do site desenvolvido"  width="500px"/>
+
+### Tecnologias utilizadas:
+
+- HTML
+- CSS
